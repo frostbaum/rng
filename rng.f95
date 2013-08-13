@@ -1,4 +1,4 @@
-module rng_c
+module rng
   use v3d_func_rep
   implicit none
   private
